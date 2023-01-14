@@ -1,0 +1,15 @@
+D:\new repo\Home-Work\Work2\bin\Debug\net6.0\Work2.exe
+D:\new repo\Home-Work\Work2\bin\Debug\net6.0\Work2.deps.json
+D:\new repo\Home-Work\Work2\bin\Debug\net6.0\Work2.runtimeconfig.json
+D:\new repo\Home-Work\Work2\bin\Debug\net6.0\Work2.dll
+D:\new repo\Home-Work\Work2\bin\Debug\net6.0\Work2.pdb
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.csproj.AssemblyReference.cache
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.GeneratedMSBuildEditorConfig.editorconfig
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.AssemblyInfoInputs.cache
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.AssemblyInfo.cs
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.csproj.CoreCompileInputs.cache
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.dll
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\refint\Work2.dll
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.pdb
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\Work2.genruntimeconfig.cache
+D:\new repo\Home-Work\Work2\obj\Debug\net6.0\ref\Work2.dll
